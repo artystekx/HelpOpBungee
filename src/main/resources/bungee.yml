@@ -1,0 +1,6 @@
+name: HelpOpBungee
+version: '${project.version}'
+main: pl.loveese.Main
+author: loveese
+
+
